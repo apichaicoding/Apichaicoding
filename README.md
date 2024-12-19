@@ -9,8 +9,8 @@ Android Developer
 * 🌍  I'm based in Bang Khen, Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port (โปรเจ็คระหว่างศึกษา)](http://apichaicoding.github.io/apichai.github.io/)
 * ✉️  You can contact me at [apichai.ttl@gmail.com](mailto:apichai.ttl@gmail.com)
-* 🚀  I'm currently working on [Kachen Digital co. ltd.](http://www.kachen.co/)
-* 🧠  I'm learning กำลังศึกษา Flutter และ Jetpack Compose
+* 🚀  I'm currently working on [Planet Barcode Co., Ltd.](https://www.planet-barcode.co.th/)
+* 🧠  I'm learning กำลังศึกษา Flutter และ Kotlin Jetpack Compose
 
 ### Skills
 
